@@ -19,4 +19,9 @@ public class Suma {
     return a;
     }
    
+    public int SumarValorAbsolut(int a, int b){
+        Math.abs(a);
+        Math.abs(b);
+    return a+b;
+    }
 }
