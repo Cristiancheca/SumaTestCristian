@@ -14,5 +14,9 @@ public class Suma {
     
         return a+b;
     }
-    
+    public int getNum1(int a, int b){
+    int suma = a + b;
+    return a;
+    }
+   
 }
